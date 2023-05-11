@@ -93,9 +93,6 @@ ${data.tests}
 
 ${renderLicenseSection(data.license)}
 
-## Questions
-
-For any questions, please contact me through [GitHub](https://github.com/${data.username}) or [email](${data.email}).
 `;
 }
 

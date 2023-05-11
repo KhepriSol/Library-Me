@@ -1,4 +1,4 @@
-# README Generator
+# README GenThis irerator
 This is a command-line application that generates a README file for your project. The application uses Node.js and the Inquirer package to prompt the user for information about their project.
 ![screenshot](Capture.PNG)
 ## Installation
